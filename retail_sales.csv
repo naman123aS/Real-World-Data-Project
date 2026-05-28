@@ -1,0 +1,13 @@
+Month,Category,Sales_Amount,Profit,Orders
+Jan,Electronics,12000,3000,50
+Feb,Clothing,8000,1800,40
+Mar,Furniture,15000,3500,45
+Apr,Electronics,13000,3200,55
+May,Clothing,9000,2000,42
+Jun,Furniture,16000,4000,48
+Jul,Electronics,14000,3400,60
+Aug,Clothing,9500,2100,44
+Sep,Furniture,17000,4300,50
+Oct,Electronics,14500,3600,62
+Nov,Clothing,10000,2400,45
+Dec,Furniture,18000,4500,52
